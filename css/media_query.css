@@ -1,0 +1,4657 @@
+@media only screen and (min-width:2048px) {}
+
+@media only screen and (min-width:1600px) and (max-width:2047px) {
+	
+
+	
+	}
+
+@media only screen and (min-width:1440px) and (max-width:1599px) {
+
+	
+	}
+
+@media only screen and (min-width:1246px) and (max-width:1439px) {
+	.wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	.banner_home img {
+		margin: 0 0 0 -900px;
+		width: 1800px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_pic img {
+		width: 100%;
+		height: 380px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls {
+		padding: 11px 0;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li {
+		width: 31%;
+		margin-right: 7px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li .treatment_txt h3 {
+		font-size: 14px;
+		line-height: 21px;
+	}
+	
+	.detail_sec .blog_left .press .press_pic img {
+		width: 100%;
+		height: 360px;
+	}
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li {
+		margin-right: 5Px;
+	}
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li .client_logo img {
+		width: 100%;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic {
+		background: #f1f1f1;
+		padding: 73px 88px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic img {
+    	width: 100%;
+	}
+/*---------------people_page star----------------------*/	
+	.banner_inner img {
+		margin: 0 0 0 -900px;
+		width: 1800px;
+	}
+	
+	.client #slider_5 li .clinnts_pic img {
+    	width: 100%;
+	}
+	
+/*---------------people_page End----------------------*/		
+	
+	.banner_inner .captionBox {
+		top: 250px;
+	}
+	
+	.SC_section_middle ul li .SC_section_pic img {
+		width: 100%;
+	}
+	
+	.SC_section_bottom ul li .SC_section_bottom_pic img {
+		width: 100%;
+	}
+	
+	/*---------------duragraft PAGE START----------------------*/	
+	.duragraft_top h2 {
+	font-size: 30px;
+	line-height: 53px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_left h2 {
+	font-size: 27px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right h2 {
+	font-size: 27px;
+	}
+	
+	.duragraft_strip ul li h4 {
+	font-size: 35px;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_text {
+		padding: 0 0;
+	}
+	/*---------------duragraft PAGE eND----------------------*/	
+	
+}
+
+@media only screen and (min-width:1170px) and (max-width:1245px) {
+
+	.wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	.banner_home img {
+		margin: 0 0 0 -830px;
+		width: 1650px;
+	}
+	/*.banner_home .captionBox {
+		top: 265px;
+	}*/
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_pic img {
+		width: 100%;
+		height: 380px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls {
+		padding: 11px 0;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li {
+		width: 31%;
+		margin-right: 7px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li .treatment_txt h3 {
+		font-size: 14px;
+		line-height: 21px;
+	}
+	
+	.detail_sec .blog_left .press .press_pic img {
+		width: 100%;
+		height: 360px;
+	}
+	
+	.banner_home .captionBox {
+		top: -550px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic img {
+		width: 100%;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h4 {
+		font-size: 27px;
+	}
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li {
+		margin-right: 5Px;
+	}
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li .client_logo img {
+		width: 100%;
+	}
+	
+	/*---------------people_page star----------------------*/	
+	.banner_inner img {
+		margin: 0 0 0 -830px;
+		width: 1650px;
+	}
+	
+	.client #slider_5 li .clinnts_pic img {
+    	width: 100%;
+	}
+	.banner_inner .captionBox {
+		top: 240px;
+	}
+	
+	.meet_team .team_details .meet_team_pic {
+		padding: 32px;
+	}
+	.meet_team .team_details .meet_team_text {
+		margin-top: 20px;
+	}
+/*---------------people_page End----------------------*/	
+	
+	.banner_inner .captionBox {
+		top: 250px;
+	}
+	
+	.SC_section_middle ul li .SC_section_pic img {
+		width: 100%;
+	}
+	
+	.SC_section_bottom ul li .SC_section_bottom_pic img {
+		width: 100%;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text {
+		padding: 68px 0;
+	}
+	
+		/*---------------duragraft PAGE START----------------------*/	
+	.duragraft_top h2 {
+	font-size: 30px;
+	line-height: 53px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_left h2 {
+	font-size: 27px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right h2 {
+	font-size: 27px;
+	}
+	
+	.duragraft_strip ul li h4 {
+	font-size: 35px;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_text {
+		padding: 0 0;
+	}
+	/*---------------duragraft PAGE eND----------------------*/	
+	
+	
+	}
+
+@media only screen and (min-width:960px) and (max-width:1169px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	#header .navMenu ul li {
+		padding: 0 13px !important;
+	}
+	#header .navMenu ul li a {
+    	padding: 19px 6px 30px 0 !important;
+	}
+/*	.banner_home img {
+		margin: 0 0 0 -790px;
+		width: 1650px;
+	}*/	
+	
+/*	.camera_wrap img {
+		width: 1400px !important;
+		position: relative;
+		left: 50%;
+		height: auto !important;
+		margin: 0 0 0 -700px;
+	}*/
+	.camera_wrap img {
+		margin: 0 0 0 -50px !important;
+		width: 1450px !important;
+	}
+	#camera_wrap_2 {
+		height: 676px !important;
+	}
+	.manu_header.scrolled #header {
+		padding: 0px 0 0 0 !important;
+	}
+	#header {
+		padding: 32px 0 0 0 !important;
+	}
+	.banner_home .captionBox {
+		top: -390px;
+	}
+	.camera_pag {
+		bottom: 88px;
+		left: -31px;
+	}
+	
+	/*.banner_home .captionBox {
+		top: 265px;
+	}*/
+	
+	h1.banner_home_heading::before {
+		top: -11px;
+	}
+	
+	h1.banner_home_heading {
+		font-size: 60px;
+		line-height: 70px;
+	}
+	
+	.detail_sec .details_sec_left {
+		float: none;
+		width: auto;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_pic img {
+		width: 100%;
+		height: 380px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls {
+		padding: 16px 0;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li {
+		width: 31%;
+		margin-right: 7px;
+	}
+	
+
+	.detail_sec .blog_left .press .press_pic img {
+		width: 100%;
+		height: 360px;
+	}
+	
+	.detail_sec .details_sec_right {
+		float: none;
+		width: auto;
+	}
+	
+	.blogSearchBox input[type="text"] {
+		width: 90%;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li {
+		outline: none;
+		margin-right: 10px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic {
+		background: #f1f1f1;
+		padding: 28px 28px;
+	}
+	
+    .detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic img {
+		width: 100%;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt {
+   	 	padding: 20px 0 20px 0;
+		overflow: hidden;
+		display: block;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h3 {
+		font-size: 25px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h4 {
+    	font-size: 22px;
+		line-height: 40px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 .slick-dots {
+		padding-bottom: 0;
+	}
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li {
+		margin-right: 5Px;
+	}
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li .client_logo img {
+		width: 100%;
+	}
+	.detail_sec .blog_left {
+		float: none;
+		width: auto;
+	}
+	
+	.detail_sec .blog_right {
+		float: none;
+		width: auto;
+	}
+	
+	
+	/******************
+	Footer section start
+**************/
+.footer {
+	padding: 80px 0 80px 0;
+}
+.footer ul li:first-child {
+	margin-right: 45px;
+}
+.footer::before {
+	display: none;
+}
+.footer_boobs {
+	display: none;
+}
+.footer ul li .footer_logo img {
+	width: 100%;
+	display: block;
+}
+.contact_us ul li:first-child, .contact_us ul li {
+	margin-right: 0 !important;
+}
+
+/******************
+	Footer section End
+**************/
+		
+	/*---------------people_page star----------------------*/	
+	.banner_inner img {
+		margin: 0 0 0 -790px;
+		width: 1650px;
+	}
+	
+	.client #slider_5 li .clinnts_pic img {
+    	width: 100%;
+	}
+	
+	.people_dtls_top h5 {
+		font-size: 20px;
+		line-height: 41px;
+	}
+	.banner_inner .captionBox {
+		top: 240px;
+	}
+	
+		.meet_team .team_details .meet_team_pic {
+		padding: 32px;
+	}
+	.meet_team .team_details .meet_team_text {
+		margin-top: 0;
+		width: 58%;
+	}
+	.meet_team .team_details .meet_team_text p {
+		font-size: 16px;
+		padding-top: 17px;
+	}
+/*---------------people_page End----------------------*/
+	
+/*---------------patients page start----------------------*/	
+	
+.patients_page .patients_page_pic {
+    width: auto;
+    float: none;
+    margin-right: 0;
+}	
+/*---------------patients page End----------------------*/	
+	
+/*---------------partner page start----------------------*/
+	.partners_sec ul li {
+		display: inline-block;
+		width: 30%;
+}
+	
+/*---------------partner page ENd----------------------*/
+	
+	    /*****************************************
+	services section start
+****************************************/
+
+    .krillase_center_logo {
+        display: none;
+    }
+
+    .krillase_section .krillase_section_dtls .krillase_left,
+    .krillase_section .krillase_section_dtls .krillase_right {
+        width: 48%;
+    }
+	
+	.krillase_Work_sec ul li {
+		width: 41%;
+	}
+	
+    /*****************************************
+	services section end
+****************************************/
+	.banner_inner .captionBox {
+			top: 230px;
+	}
+	.SC_section_middle {
+		padding: 60px 0;
+	}
+	.SC_section_middle h2 {
+		font-size: 30px;
+	}
+	.SC_section_middle ul {
+		padding-top: 30px;
+	}
+	
+	.SC_section_middle ul li .SC_section_pic img {
+		width: 100%;
+	}
+	
+	.SC_section_bottom {
+		padding: 60px 0;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text {
+		padding: 25px 0;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text h2 {
+		font-size: 30px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_pic img {
+		width: 100%;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text {
+		padding: 68px 0;
+	}
+	
+	
+			/*---------------duragraft PAGE START----------------------*/	
+	
+	.duragraft_top {
+		padding: 60px 0;
+	}
+	
+	.duragraft_top h2 {
+		font-size: 30px;
+		line-height: 53px;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h4 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h3 {
+		font-size: 25px;
+		line-height: 42px;
+	}
+	.duragraft_top ul li .duragraft_top_text ul li {
+		font-size: 16px;
+		padding: 7px 0 0px 28px;
+		background: url(../images/hand.png) no-repeat 0 20px;
+		width: auto;
+	}
+	
+	.duragraft_strip ul li {
+		width: 59%;
+	}
+	.duragraft_strip ul li:last-child {
+		width: 34%;
+	}
+	.duragraft_strip ul li h4 {
+		font-size: 27px;
+	}
+	
+	.duragraft_section {
+		padding: 60px 0;
+	}
+	
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_center_logo {
+	display: none;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_right , .duragraft_section .duragraft_section_dtls .duragraft_left {
+	width: 50%;
+	float: left right;
+	overflow: hidden;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_left h2 {
+	font-size: 27px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right h2 {
+	font-size: 27px;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_text h4 {
+		font-size: 25px;
+		line-height: 41px;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_pic img {
+    width: 100%;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_text {
+		padding: 0 0;
+	}
+	/*---------------duragraft PAGE eND----------------------*/	
+	
+    /* ================================= start: getinTouch Section ================================= */
+    .contact_form {
+        padding: 40px;
+        padding-right: 50px;
+    }
+
+    .contact_info {
+        padding: 170px 0 0 50px;
+    }
+
+
+    .contact_form input[type=text],
+    .contact_form input[type=email],
+    .contact_form input[type=number],
+    .contact_form input[type=password] {
+        font-size: 17px;
+    }
+
+    .contact_form textarea {
+        font-size: 17px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 17px;
+    }
+
+    .contact_info h4 {
+        font-size: 20px;
+    }
+
+    .contact_info h4 span {
+        font-size: 17px;
+    }
+
+    .contact_info h4 span::after {
+        width: 120px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 17px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+    /*******************************
+	end: Inner page : Contact Us
+*******************************/
+	.portal ul li iframe {
+		width: 100%;
+		height: 300px;
+	}
+	
+}
+
+@media only screen and (min-width:769px) and (max-width:959px) {
+.wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+	/*.banner_home img {
+		margin: 0 0 0 -790px;
+		width: 1650px;
+	}	*/
+	#header {
+		padding: 49px 0 0 0 !important;
+	}
+	
+	/*<!--.banner_home .captionBox {
+		top: 265px;
+	}
+	-->*/
+	.manu_header.scrolled #header {
+		padding: 24px 0 0 0 !important;
+	}
+	.camera_wrap img {
+		margin: 0 0 0 -50px !important;
+		width: 1150px !important;
+	}
+	#camera_wrap_2 {
+		height: 676px !important;
+	}
+	.manu_header .manu_header_inner .logo {
+		padding-top: 0;
+
+	}
+	#header {
+		padding: 32px 0 0 0 !important;
+	}
+	.banner_home .captionBox {
+		top: -390px;
+	}
+	.camera_pag {
+		bottom: 88px;
+		left: -31px;
+	}
+	
+	h1.banner_home_heading::before {
+		top: -11px;
+	}
+	
+	h1.banner_home_heading {
+		font-size: 50px;
+		line-height: 63px;
+	}
+	
+	.detail_sec .details_sec_left {
+		float: none;
+		width: auto;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_pic img {
+		width: 100%;
+		height: 380px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls {
+		padding: 16px 0;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li {
+		width: 31%;
+		margin-right: 7px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li .treatment_txt h3 {
+	font-size: 14px;
+	line-height: 27px;
+	}
+	.detail_sec .blog_left .press .press_pic img {
+		width: 100%;
+		height: 360px;
+	}
+	
+	.detail_sec .details_sec_right {
+		float: none;
+		width: auto;
+	}
+	
+	.blogSearchBox input[type="text"] {
+		width: 90%;
+	}
+	/*.detail_sec .details_sec_right .about .about_pic img {
+		width: 100%;
+		height: 670px;
+	}*/
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li {
+		outline: none;
+		margin-right: 10px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic {
+		background: #f1f1f1;
+		padding: 28px 28px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic img {
+		width: 100%;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt {
+   	 	padding: 20px 0 10px 0;
+		overflow: hidden;
+		display: block;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h3 {
+		font-size: 25px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h4 {
+    	font-size: 22px;
+		line-height: 40px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 .slick-dots {
+		padding-bottom: 0;
+	}
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li {
+		margin-right: 5Px;
+	}
+	.detail_sec .blog_left {
+		float: none;
+		width: auto;
+	}
+	
+	.detail_sec .blog_right {
+		float: none;
+		width: auto;
+	}
+	/******************
+	footer section Start
+**************/
+
+.footer {
+	padding: 70px 0;
+}
+.footer::before {
+	display: none;
+}
+.footer_boobs {
+	display: none;
+}
+.footer ul li:first-child {
+	margin-right: 0;
+	width: 100%;
+	margin-bottom: 50px;
+}
+.footer ul li .footer_logo img {
+	width: auto;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.footer ul li .social_sec {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.footer ul li .social_sec p {
+	text-align: center;
+}
+
+.footer ul li {
+	width: 31%;
+	margin-right: 14px;
+}
+.footer ul li ul li {
+	margin-bottom: 15px !important;
+}
+/******************
+	footer section End
+**************/
+
+	/*---------------people_page star----------------------*/	
+	.banner_inner img {
+		margin: 0 0 0 -790px;
+		width: 1650px;
+	}
+	
+	.client #slider_5 li .clinnts_pic img {
+    	width: 100%;
+	}
+	
+	.people_dtls_top h5 {
+		font-size: 20px;
+		line-height: 41px;
+	}
+	.banner_inner .captionBox {
+		top: 240px;
+	}
+	.people_sec #slider_4 li .people_pic img {
+		width: 100%;
+	}	
+	
+	
+	.meet_team .team_details .meet_team_pic {
+   		 padding: 64px;
+		float: none;
+	}
+	
+	.meet_team .meet_team_pic img {
+		object-fit: cover;
+		width: 100%;
+		height: auto;
+	}
+	.meet_team .team_details .meet_team_text {
+		float: none;
+		width: auto;
+		padding-top: 0;
+		margin-top: 30px;
+	}
+	.meet_team .team_details .meet_team_text p {
+		font-size: 16px;
+		padding-top: 17px;
+	}
+	.meet_team_middle ul li {
+		width: 49.33%;
+	}
+	
+	.aboutUS_meet_team_middle ul li {
+   	 	margin-top: 120px;
+	}
+/*---------------people_page End----------------------*/	
+/*---------------patients page start----------------------*/	
+	
+.patients_page .patients_page_pic {
+    width: auto;
+    float: none;
+    margin-right: 0;
+}	
+/*---------------patients page End----------------------*/	
+	
+	
+/*---------------partner page start----------------------*/
+.partners_sec ul li {
+		display: inline-block;
+		width: 30%;
+}
+.partners_sec ul li .partners_pic .overlay h3 {
+    padding: 50px 0;
+    font-size: 24px;
+}
+/*---------------partner page ENd----------------------*/	
+	
+/*****************************************
+	krillase_kpage _ start
+****************************************/
+
+    .krillase_center_logo {
+        display: none;
+    }
+
+    .krillase_section .krillase_section_dtls .krillase_left,
+    .krillase_section .krillase_section_dtls .krillase_right {
+        width: 48%;
+    }
+	
+	.krillase_Work_sec ul li {
+		width: 41%;
+	}
+	.krillase_Work_sec ul li {
+		width: auto;
+		display: block;
+		margin-right: 0;
+		margin-bottom: 50px;
+	}
+	.krillase_Work_sec ul li:last-child{
+		margin-bottom: 0;
+	}
+	
+	.krillase_section .krillase_section_dtls {
+    margin-top: 40px;
+	}
+    /*****************************************
+	krillase_kpage _  end
+****************************************/	
+	
+	.banner_inner .captionBox {
+			top: 230px;
+	}
+	.SC_section_top h3 {
+		font-size: 18px;
+		line-height: 35px;
+	}
+	
+	.SC_section_middle {
+		padding: 60px 0;
+	}
+	.SC_section_middle h2 {
+		font-size: 30px;
+		line-height: 44px;
+	}
+	.SC_section_middle ul {
+		padding-top: 30px;
+	}
+	.SC_section_middle ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+	}	
+	.SC_section_middle ul li .SC_section_pic img {
+		width: auto;
+		margin: 0 auto;
+		text-align: center;
+		display: block;
+	}
+	.SC_section_middle ul li:last-child {
+		margin-right: 0;
+		width: auto;
+		margin-top: 20px;
+	}
+	.SC_section_bottom {
+		padding: 60px 0;
+	}
+	.SC_section_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+	}
+	
+	.SC_section_bottom ul li .SC_section_bottom_text {
+		padding: 0 0 50px 0;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text h2 {
+		font-size: 30px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_pic img {
+		width: 100%;
+	}
+	.SC_section_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}	
+	
+	.SC_section_strip h4 {
+		width: auto;
+		margin: 0 auto;
+	}
+	
+/*---------------duragraft PAGE START----------------------*/	
+	
+	.duragraft_top {
+		padding: 60px 0;
+	}
+	
+	.duragraft_top h2 {
+		font-size: 25px;
+		line-height: 51px;
+	}
+	
+	.duragraft_top ul {
+		padding-top: 30px;
+	}
+	
+	.duragraft_top ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	
+	.duragraft_top ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h4 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h3 {
+		font-size: 25px;
+		line-height: 42px;
+	}
+	.duragraft_top ul li .duragraft_top_text ul li {
+		font-size: 16px;
+		padding: 7px 0 0px 28px;
+		background: url(../images/hand.png) no-repeat 0 20px;
+		width: auto;
+		margin-bottom: 0;
+	}
+	
+	.duragraft_strip ul li {
+		width: 50%;
+	}
+	.duragraft_strip ul li:last-child {
+   	 	width: 42%;
+	}
+	.duragraft_strip ul li h4 {
+		font-size: 28px;
+		line-height: 40px;
+	}
+	.duragraft_section .duragraft_section_dtls {
+		margin-top: 30px;
+	}
+	h1.details_heading.center {
+	text-align: center;
+	font-size: 40px;
+	}
+	.duragraft_section {
+		padding: 60px 0;
+	}
+	
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_center_logo {
+	display: none;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right, .duragraft_section .duragraft_section_dtls .duragraft_left {
+		width: auto;
+		float: none;
+		overflow: hidden;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_left li, .duragraft_section .duragraft_section_dtls .duragraft_right li {
+		margin-bottom: 20px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right li .duragraft_list h3 {
+		padding-bottom: 0;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_left h2 {
+	font-size: 27px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right h2 {
+	font-size: 27px;
+	}
+	
+	.duragraft_bottom {
+		padding: 60px 0;
+	}
+	.duragraft_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		padding-bottom: 30px;
+	}
+	.duragraft_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}	
+	.duragraft_bottom ul li .duragraft_bottom_text h4 {
+		font-size: 25px;
+		line-height: 41px;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_pic img {
+    width: 100%;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_text {
+		padding: 0 0;
+	}
+	/*---------------duragraft PAGE eND----------------------*/	
+	    /*******************************
+	start: Inner page : Contact Us
+*******************************/
+    /* ================================= start: getinTouch Section ================================= */
+    .contact_form {
+        padding: 40px;
+        padding-right: 50px;
+    }
+
+    .contact_form::after {
+        height: 73%;
+        top: 15%;
+    }
+
+    .contact_info {
+        padding: 150px 0 0 50px;
+    }
+
+    .contact_form h2 {
+        font-size: 30px;
+    }
+
+    .contact_form input[type=text],
+    .contact_form input[type=email],
+    .contact_form input[type=number],
+    .contact_form input[type=password] {
+        font-size: 17px;
+    }
+
+    .contact_form textarea {
+        font-size: 17px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 17px;
+    }
+
+    .contact_info h4 {
+        font-size: 20px;
+    }
+
+    .contact_info h4 span {
+        font-size: 17px;
+    }
+
+    .contact_info h4 span::after {
+        width: 130px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 17px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+    /*******************************
+	end: Inner page : Contact Us
+*******************************/
+	.portal ul li iframe {
+		width: 100%;
+		height: 300px;
+	}
+}
+
+@media only screen and (min-width:641px) and (max-width:768px) {
+.wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	.manu_header .manu_header_inner .logo {
+		padding-top: 20px;
+		width: 200px;
+	}
+	.manu_header .manu_header_inner .logo img {
+		width: 100%;
+	}
+	
+	/*.banner_home img {
+		margin: 0 0 0 -620px;
+		width: 1350px;
+	}*/
+	#header {
+		padding: 35px 0 0 0 !important;
+	}
+	
+	/*.banner_home .captionBox {
+		top: 232px;
+	}*/
+	
+	.camera_wrap img {
+		 width: 1400px !important;
+		position: relative;
+		left: 50%;
+		height: auto !important;
+		margin: 0 0 0 -700px;	
+	}
+	#camera_wrap_2 {
+		height: 576px !important;
+	}
+	.manu_header.scrolled #header {
+		padding: 12px 0 0 0 !important;
+	}
+	#header {
+		padding: 32px 0 0 0 !important;
+	}
+	.banner_home .captionBox {
+		top: -390px;
+	}
+	.camera_pag {
+		bottom: 88px;
+		left: -31px;
+	}
+	
+	
+	h1.banner_home_heading::before {
+		top: -11px;
+	}
+	
+	h1.banner_home_heading {
+		font-size: 50px;
+		line-height: 63px;
+	}
+	
+	.detail_sec .details_sec_left {
+		float: none;
+		width: auto;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_pic img {
+		width: 100%;
+		height: 380px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls {
+		padding: 16px 0;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li {
+		width: 31%;
+		margin-right: 7px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li .treatment_txt h3 {
+	font-size: 14px;
+	line-height: 27px;
+	}
+	.detail_sec .blog_left .press .press_pic img {
+		width: 100%;
+		height: auto;
+	}
+	
+	.detail_sec .details_sec_right {
+		float: none;
+		width: auto;
+	}
+	
+	.blogSearchBox input[type="text"] {
+		width: 90%;
+	}
+	/*.detail_sec .details_sec_right .about .about_pic img {
+		width: 100%;
+		height: 670px;
+	}
+*/
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 {
+		margin-bottom: 0;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li {
+		outline: none;
+		margin-right: 10px;
+	}
+	
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic {
+		background: #f1f1f1;
+		padding: 28px 28px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic img {
+		width: 100%;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt {
+   	 	padding: 20px 0 10px 0;
+		overflow: hidden;
+		display: block;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h3 {
+		font-size: 25px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h4 {
+    	font-size: 19px;
+		line-height: 40px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 .slick-dots {
+		padding-bottom: 0;
+	}
+	
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li {
+		margin-right: 5Px;
+	}
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li .client_logo img {
+		width: 100%;
+	}
+	.detail_sec .blog_left {
+		float: none;
+		width: auto;
+	}
+	
+	.detail_sec .blog_right {
+		float: none;
+		width: auto;
+	}
+	
+	/*****************
+	footer start
+**************/
+
+.footer {
+	padding: 70px 0;
+}
+.footer::before {
+	display: none;
+}
+.footer_boobs {
+	display: none;
+}
+.footer ul li:first-child {
+	margin-right: 0;
+	width: 100%;
+	margin-bottom: 50px;
+}
+.footer ul li .footer_logo img {
+	width: auto;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.footer ul li .social_sec {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.footer ul li .social_sec p {
+	text-align: center;
+}
+
+.footer ul li {
+	width: 100%;
+	margin-right: 0;
+	margin-bottom: 40px;
+}
+.footer ul li ul li {
+	margin-bottom: 10px !important;
+}
+.footer ul li:last-child{
+	margin-bottom:0;
+}
+
+/*****************
+	footer End
+**************/
+
+/*---------------people_page star----------------------*/	
+	.banner_inner img {
+		margin: 0 0 0 -620px;
+		width: 1350px;
+	}
+	
+	.client #slider_5 li .clinnts_pic img {
+    	width: 100%;
+	}
+	
+	.people_dtls_top h5 {
+		font-size: 19px;
+		line-height: 39px;
+	}
+	.banner_inner .captionBox {
+		top: 210px;
+	
+	}
+	
+	.people_dtls_top {
+   	 	padding: 30px 0;
+	}
+	
+	.banner_inner .captionBox {
+		top: 210px;
+	}
+	
+	.people_sec #slider_4 li .people_pic img {
+	width: 100%;
+}
+	
+	
+		.meet_team .team_details .meet_team_pic {
+   		 padding: 64px;
+		float: none;
+	}
+	
+	.meet_team .meet_team_pic img {
+		object-fit: cover;
+		width: 100%;
+		height: auto;
+	}
+	.meet_team .team_details .meet_team_text {
+		float: none;
+		width: auto;
+		padding-top: 0;
+		margin-top: 30px;
+	}
+	.meet_team .team_details .meet_team_text p {
+		font-size: 16px;
+		padding-top: 17px;
+	}
+	.meet_team_middle ul li {
+		width: 49.33%;
+	}
+	
+	.aboutUS_meet_team_middle ul li {
+   	 	margin-top: 120px;
+	}
+	h1.details_heading.center {
+		text-align: center;
+		font-size: 40px;
+	}
+	.meet_team_middle {
+		padding: 40px 0;
+	}
+	.meet_team {
+		padding: 40px 0;
+	}
+/*---------------people_page End----------------------*/	
+
+.blog_cmd ul li {
+	padding-right: 30px;
+}
+
+/*---------------patients page start----------------------*/	
+.patients_page {
+	padding: 40px 0;
+}	
+.patients_page .patients_page_pic {
+    width: auto;
+    float: none;
+    margin-right: 0;
+}
+	
+.patients_page .patients_page_txt h4 {
+	font-size: 26px;
+	line-height: 40px;
+}	
+.patients_says {
+	padding: 40px 0;
+}	
+/*---------------patients page End----------------------*/	
+/*---------------partner page start----------------------*/
+.partners_sec ul li {
+		display: inline-block;
+		width: 30%;
+}
+.partners_sec ul li .partners_pic .overlay h3 {
+    padding: 50px 0;
+    font-size: 24px;
+}
+	
+/*---------------partner page start----------------------*/
+
+.partners_sec {
+	padding: 60px 0 40px 0;
+}	
+.partners_sec ul li {
+		display: inline-block;
+		width: 46%;
+}
+.partners_sec ul li .partners_pic .overlay h3 {
+    padding: 50px 0;
+    font-size: 24px;
+}
+/*---------------partner page ENd----------------------*/	
+
+	
+/*****************************************
+	krillase_kpage _ start
+****************************************/
+
+    .krillase_center_logo {
+        display: none;
+    }
+
+    .krillase_section .krillase_section_dtls .krillase_left,
+    .krillase_section .krillase_section_dtls .krillase_right {
+        width: auto;
+		display: block;
+		float: none;
+    }
+	.krillase_Work_sec ul {
+		margin-top: 30px;
+	}
+	.krillase_Work_sec ul li {
+		width: 41%;
+	}
+	.krillase_Work_sec ul li {
+		width: auto;
+		display: block;
+		margin-right: 0;
+		margin-bottom: 20px;
+	}
+	.krillase_Work_sec ul li:last-child{
+		margin-bottom: 0;
+	}
+	
+	.krillase_section .krillase_section_dtls {
+    	margin-top: 20px;
+	}
+	
+    /*****************************************
+	krillase_kpage _  end
+****************************************/	
+	
+		.banner_inner .captionBox {
+			top: 230px;
+	}
+	.SC_section_top h3 {
+		font-size: 18px;
+		line-height: 35px;
+	}
+	
+	.SC_section_middle {
+		padding: 60px 0;
+	}
+	.SC_section_middle h2 {
+		font-size: 30px;
+		line-height: 44px;
+	}
+	.SC_section_middle ul {
+		padding-top: 30px;
+	}
+	.SC_section_middle ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+	}	
+	.SC_section_middle ul li .SC_section_pic img {
+		width: auto;
+		margin: 0 auto;
+		text-align: center;
+		display: block;
+	}
+	.SC_section_middle ul li:last-child {
+		margin-right: 0;
+		width: auto;
+		margin-top: 20px;
+	}
+	.SC_section_bottom {
+		padding: 60px 0;
+	}
+	.SC_section_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+	}
+	
+	.SC_section_bottom ul li .SC_section_bottom_text {
+		padding: 0 0 50px 0;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text h2 {
+		font-size: 30px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_pic img {
+		width: 100%;
+	}
+	.SC_section_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}	
+	
+	.SC_section_strip h4 {
+		width: auto;
+		margin: 0 auto;
+	}
+	
+	/*---------------duragraft PAGE START----------------------*/	
+	
+	.duragraft_top {
+		padding: 60px 0;
+	}
+	
+	.duragraft_top h2 {
+		font-size: 25px;
+		line-height: 51px;
+	}
+	
+	.duragraft_top ul {
+		padding-top: 30px;
+	}
+	
+	.duragraft_top ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	
+	.duragraft_top ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h4 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h3 {
+		font-size: 25px;
+		line-height: 42px;
+	}
+	.duragraft_top ul li .duragraft_top_text ul li {
+		font-size: 16px;
+		padding: 7px 0 0px 28px;
+		background: url(../images/hand.png) no-repeat 0 20px;
+		width: auto;
+		margin-bottom: 0;
+	}
+	
+	.duragraft_strip ul li {
+		width: auto;
+		display: block;
+	}
+	.duragraft_strip ul li:last-child {
+		width: auto;
+		float: left;
+	}
+	.duragraft_strip ul li h4 {
+		font-size: 28px;
+		line-height: 40px;
+	}
+	.duragraft_section .duragraft_section_dtls {
+		margin-top: 30px;
+	}
+	h1.details_heading.center {
+	text-align: center;
+	font-size: 40px;
+	}
+	.duragraft_section {
+		padding: 60px 0;
+	}
+	
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_center_logo {
+	display: none;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right, .duragraft_section .duragraft_section_dtls .duragraft_left {
+		width: auto;
+		float: none;
+		overflow: hidden;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_left li, .duragraft_section .duragraft_section_dtls .duragraft_right li {
+		margin-bottom: 20px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right li .duragraft_list h3 {
+		padding-bottom: 0;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_left h2 {
+	font-size: 27px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right h2 {
+	font-size: 27px;
+	}
+	
+	.duragraft_bottom {
+		padding: 60px 0;
+	}
+	.duragraft_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		padding-bottom: 30px;
+	}
+	.duragraft_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+		padding-bottom: 0;
+	}	
+	.duragraft_bottom ul li .duragraft_bottom_text h4 {
+		font-size: 25px;
+		line-height: 41px;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_pic img {
+    width: 100%;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_text {
+		padding: 0 0;
+	}
+	/*---------------duragraft PAGE eND----------------------*/	
+	
+	    /*******************************
+	start: Inner page : Contact Us
+*******************************/
+    /* ================================= start: getinTouch Section ================================= */
+    .getinTouch-sec {
+        padding: 50px 0;
+    }
+
+    .contact_form {
+        padding: 30px 10px;
+        padding-right: 20px;
+    }
+
+    .contact_form::after {
+        height: 73%;
+        top: 15%;
+    }
+
+    .contact_info {
+        padding: 120px 0 0 20px;
+    }
+
+    .contact_form h2 {
+        margin-bottom: 45px;
+        font-size: 25px;
+    }
+
+    .contact_form input[type=text],
+   .contact_form  input[type=email],
+   .contact_form  input[type=number],
+    .contact_form input[type=password] {
+        font-size: 16px;
+        height: 50px;
+        padding: 0 20px;
+    }
+
+    .contact_form textarea {
+        font-size: 16px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 16px;
+    }
+
+    .contact_info h4 {
+        font-size: 20px;
+    }
+
+    .contact_info h4 span {
+        font-size: 16px;
+    }
+
+    .contact_info h4 span::after {
+        width: 100px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 16px;
+        background-size: 15px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+    /*******************************
+	end: Inner page : Contact Us
+*******************************/
+
+	.portal ul li iframe {
+		width: 100%;
+		height: 250px;
+	}
+	
+	
+}
+
+@media only screen and (min-width:481px) and (max-width:640px) {
+   
+.wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	.manu_header .manu_header_inner .logo {
+		padding-top: 20px;
+		width: 200px;
+	}
+	.manu_header .manu_header_inner .logo img {
+		width: 100%;
+	}
+	.manu_header .manu_header_inner {
+		padding-bottom: 7px;
+	}
+	
+	/*.banner_home img {
+		margin: 0 0 0 -620px;
+		width: 1350px;
+	}*/
+	#header {
+		padding: 35px 0 0 0 !important;
+	}
+	.manu_header.scrolled #header {
+		padding: 10px 0 0 0 !important;
+	}
+	/*.banner_home .captionBox {
+		top: 200px;
+	}*/
+	
+	.camera_wrap img {
+		width: 1200px !important;
+		position: relative;
+		left: 50%;
+		height: auto !important;
+		margin: 0 0 0 -500px !important;
+	}
+	#camera_wrap_2 {
+    	height: 500px !important;
+	}
+	#header {
+		padding: 32px 0 0 0 !important;
+	}
+	.banner_home .captionBox {
+		top: -360px;
+	}
+	.camera_pag {
+		bottom: 88px;
+		left: -31px;
+	}
+	
+	
+	h1.banner_home_heading::before {
+		top: -11px;
+	}
+	
+	h1.banner_home_heading {
+		font-size: 40px;
+		line-height: 49px;
+	}
+	.banner_home .caption {
+		width: auto;
+	}
+	.banner_buttom {
+		padding: 12px 30px;
+	}
+	.detail_sec .details_sec_left {
+		float: none;
+		width: auto;
+	}
+	.detail_sec .details_sec_left .Krillase_sec {
+		padding: 20px;
+	}
+	
+	h1.details_heading {
+		font-size: 27px;
+		line-height: 45px;
+	}
+	.detail_sec .details_sec_left .Krillase_sec::after {
+		border-left: 240px solid #212121;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_pic img {
+		width: 100%;
+		height: 380px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls {
+		padding: 0 0 10px 0;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text ul li {
+		width: auto;
+		display: block;
+		margin-right: 0;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li .treatment_txt h3 {
+	font-size: 14px;
+	line-height: 27px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li {
+		display: block;
+		width: auto;
+		vertical-align: top;
+		margin-right: 0;
+		overflow: hidden;
+		margin-bottom: 17px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li:last-child {
+		margin-bottom: 0;
+	}
+	.btn_dtls {
+		padding: 12px 30px;
+	}
+	
+	
+	.detail_sec .blog_left .press .press_pic img {
+		width: 100%;
+		height: 360px;
+	}
+	
+	.detail_sec .details_sec_right {
+		float: none;
+		width: auto;
+	}
+	.detail_sec .details_sec_right .search {
+		padding: 20px;
+	}
+	.blogSearchBox input[type="text"] {
+		width: 80%;
+	}
+	
+	.detail_sec .details_sec_right .about {
+		padding: 20px;
+	}	
+	
+	.detail_sec .details_sec_right .about .people_dtls {
+		overflow: hidden;
+		padding: 23px 0 16px 0;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 {
+		margin-bottom: 0;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li{
+		margin-right: 5px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic {
+		padding: 20px 20px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic img {
+		width: 100%;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt {
+   	 	padding: 10px 0 10px 0;
+		overflow: hidden;
+		display: block;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h3 {
+		font-size: 20px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h4 {
+		font-size: 14px;
+		line-height: 17px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 .slick-dots {
+		padding-bottom: 0;
+	}
+	
+	
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li {
+		margin-right: 5Px;
+	}
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li .client_logo img {
+		width: 100%;
+	}
+
+	.detail_sec .details_sec_right .patients {
+		padding:20px;
+	}
+	.detail_sec .details_sec_right .patients .patients_dtls {
+		padding: 20px 0 0 0;
+		overflow: hidden;
+	}
+	
+	.detail_sec .details_sec_right .client {
+		padding: 20px;
+	}	
+	
+	.detail_sec .details_sec_right .client .client_dtls {
+		padding: 18px 0;
+		overflow: hidden;
+	}
+	
+	.detail_sec .blog_left {
+		float: none;
+		width: auto;
+	}
+	.detail_sec .blog_left .press::after {
+		border-left: 240px solid #212121;
+	}
+	.detail_sec .blog_left .press {
+		padding: 20px;
+	}
+	.detail_sec .blog_left .press .press_pic img {
+		width: 100%;
+		height: auto;
+	}
+	.detail_sec .blog_left .press .press_txt h3 {
+		font-size: 23px;
+	}
+	
+	.detail_sec .blog_right {
+		float: none;
+		width: auto;
+	}
+	.detail_sec .blog_right .news {
+	padding: 20px;
+}
+	
+/******************
+	footer-start
+**************/
+
+.footer {
+	padding: 60px 0;
+}
+.footer::before {
+	display: none;
+}
+.footer_boobs {
+	display: none;
+}
+.footer ul li:first-child {
+	margin-right: 0;
+	width: 100%;
+	margin-bottom: 50px;
+}
+.footer ul li .footer_logo img {
+	width: auto;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.footer ul li .social_sec {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.footer ul li .social_sec p {
+	text-align: center;
+}
+
+.footer ul li {
+	width: 100%;
+	margin-right: 0;
+	margin-bottom: 40px;
+}
+.footer ul li ul li {
+	margin-bottom: 10px !important;
+}
+.footer ul li:last-child{
+	margin-bottom:0;
+}
+
+
+/******************
+	footer-End
+**************/
+	
+/*---------------people_page star----------------------*/	
+	.banner_inner img {
+		margin: 0 0 0 -620px;
+		width: 1350px;
+	}
+	
+	.client #slider_5 li .clinnts_pic img {
+    	width: 100%;
+	}
+	
+	.people_dtls_top h5 {
+		font-size: 19px;
+		line-height: 39px;
+	}
+	.banner_inner .captionBox {
+		top: 210px;
+	
+	}
+	
+	.people_dtls_top {
+   	 	padding: 30px 0;
+	}
+	.people_sec #slider_4 li .people_pic {
+		background: #e3e3e3;
+		padding: 38px 38px;
+	}
+	.people_sec #slider_4 li .people_pic img {
+		width: 100%;
+	}
+	.people_sec #slider_4 li .peopole_txt h3 {
+		font-size: 20px;
+}
+	.people_sec #slider_4 li .peopole_txt h4 {
+		font-size: 16px;
+	}
+	.banner_inner .captionBox {
+		top: 210px;
+	}
+	
+	.meet_team .team_details .meet_team_pic {
+   		 padding: 64px;
+		float: none;
+	}
+	
+	.meet_team .meet_team_pic img {
+		object-fit: cover;
+		width: 100%;
+		height: auto;
+	}
+	.meet_team .team_details .meet_team_text {
+		float: none;
+		width: auto;
+		padding-top: 0;
+		margin-top: 30px;
+	}
+	.meet_team .team_details .meet_team_text p {
+		font-size: 16px;
+		padding-top: 17px;
+	}
+	
+	.aboutUS_meet_team_middle ul li {
+   	 	margin-top: 100px;
+		width: auto;
+		float: none;
+	}
+	h1.details_heading.center {
+		text-align: center;
+		font-size: 40px;
+	}
+	.meet_team_middle {
+		padding: 40px 0;
+	}
+	.meet_team {
+		padding: 40px 0;
+	}
+	
+/*---------------people_page End----------------------*/		
+	.blog_cmd ul li a {
+		font-size: 15px;
+	}
+	.blog_cmd ul li {
+		padding-right: 11px;
+	}
+	
+/*---------------patients page start----------------------*/	
+.patients_page {
+	padding: 40px 0;
+}	
+.patients_page .patients_page_pic {
+    width: auto;
+    float: none;
+    margin-right: 0;
+}
+	
+.patients_page .patients_page_txt h4 {
+    font-size: 23px;
+    line-height: 38px;
+}
+.patients_says {
+	padding: 40px 0;
+}	
+	
+.patients_page .patients_page_txt p {
+	font-size: 16px;
+	line-height: 30px;
+}	
+.patients_says .patients_dtls #slider_6 li {
+	margin-right: 0;
+}	
+	
+/*---------------patients page End----------------------*/	
+	
+/*---------------partner page start----------------------*/
+
+.partners_sec {
+	padding: 40px 0 40px 0;
+}	
+.partners_sec ul li {
+		display: inline-block;
+		width: 30%;
+}
+.partners_sec ul li .partners_pic .overlay h3 {
+    padding: 50px 0;
+    font-size: 24px;
+}
+.partners_sec ul li {
+    display: inline-block;
+    width: 45%;
+}	
+	
+/*---------------partner page ENd----------------------*/		
+	
+/*****************************************
+	krillase_kpage _ start
+****************************************/
+	.krillase_section {
+		padding: 40px 0 40px 0;
+	}
+    .krillase_center_logo {
+        display: none;
+    }
+
+    .krillase_section .krillase_section_dtls .krillase_left,
+    .krillase_section .krillase_section_dtls .krillase_right {
+        width: auto;
+		display: block;
+		float: none;
+    }
+	.krillase_Work_sec ul {
+		margin-top: 30px;
+	}
+	.krillase_Work_sec ul li {
+		width: 41%;
+	}
+	.krillase_Work_sec ul li {
+		width: auto;
+		display: block;
+		margin-right: 0;
+		margin-bottom: 20px;
+		padding: 20px;
+	}
+	
+	.krillase_Work_sec ul li h2 {
+		font-size: 30px;
+		line-height: 31px;
+		padding-bottom: 0px;
+	}
+	.krillase_Work_sec ul li:last-child{
+		margin-bottom: 0;
+	}
+	
+	.krillase_section .krillase_section_dtls {
+    	margin-top: 20px;
+	}
+	.krillase_section .krillase_section_dtls .krillase_left h2, .krillase_section .krillase_section_dtls .krillase_right h2 {
+	font-size: 30px;
+	line-height: 39px;
+	padding-bottom: 15px;
+	}
+	.krillase_section .krillase_section_dtls .krillase_left li, .krillase_section .krillase_section_dtls .krillase_right li{
+		display: block;
+		vertical-align: top;
+		margin-bottom: 24px;
+		overflow: hidden;
+	}
+	.krillase_Work_sec {
+		padding: 40px 0 40px 0;
+	}
+    /*****************************************
+	krillase_kpage _  end
+****************************************/		
+	
+		
+	.banner_inner .captionBox {
+  	 	 top: 180px;
+	}
+	.banner_inner .caption h2 {
+		font-size: 32px;
+		line-height: 70px;
+	}
+	
+	.SC_section_top h3 {
+		font-size: 18px;
+		line-height: 35px;
+	}
+	
+	.SC_section_middle {
+		padding: 40px 0;
+	}
+	.SC_section_middle h2 {
+		font-size: 27px;
+		line-height: 43px;
+	}
+	.SC_section_middle ul {
+		padding-top: 30px;
+	}
+	.SC_section_middle ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+	}	
+	.SC_section_middle ul li .SC_section_pic img {
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+		display: block;
+	}
+	.SC_section_middle ul li:last-child {
+		margin-right: 0;
+		width: auto;
+		margin-top: 20px;
+	}
+	.SC_section_bottom {
+		padding: 40px 0;
+	}
+	.SC_section_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+	}
+	
+	.SC_section_bottom ul li .SC_section_bottom_text {
+		padding: 0 0 50px 0;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text h2 {
+		font-size: 30px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_pic {
+		padding: 30px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_pic img {
+		width: 100%;
+	}
+	.SC_section_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}	
+	
+	.SC_section_strip {
+		padding: 40px 0;
+
+	}
+	
+	.SC_section_strip h4 {
+		width: auto;
+		margin: 0 auto;
+		font-size: 21px;
+		line-height: 40px;
+	}
+	
+		/*---------------duragraft PAGE START----------------------*/	
+	
+	.duragraft_top {
+		padding: 40px 0;
+	}
+	
+	.duragraft_top h2 {
+		font-size: 20px;
+		line-height: 37px;
+	}
+	
+	.duragraft_top ul {
+		padding-top: 30px;
+	}
+	
+	.duragraft_top ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	
+	.duragraft_top ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h4 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h3 {
+		font-size: 22px;
+		line-height: 35px;
+	}
+	.duragraft_top ul li .duragraft_top_text ul li {
+		font-size: 16px;
+		padding: 7px 0 0px 28px;
+		background: url(../images/hand.png) no-repeat 0 20px;
+		width: auto;
+		margin-bottom: 0;
+	}
+	
+	.duragraft_strip ul li {
+		width: auto;
+		display: block;
+	}
+	.duragraft_strip ul li:last-child {
+		width: auto;
+		float: left;
+	}
+	.duragraft_strip {
+		padding: 20px 0;
+	}
+	
+	.duragraft_strip ul li h4 {
+		font-size: 22px;
+		line-height: 40px;
+	}
+	.duragraft_section .duragraft_section_dtls {
+		margin-top: 10px;
+	}
+	h1.details_heading.center {
+		text-align: center;
+		font-size: 26px;
+	}
+	.duragraft_section {
+		padding: 40px 0;
+	}
+	
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_center_logo {
+	display: none;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right, .duragraft_section .duragraft_section_dtls .duragraft_left {
+		width: auto;
+		float: none;
+		overflow: hidden;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_left li, .duragraft_section .duragraft_section_dtls .duragraft_right li {
+		margin-bottom: 20px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right li .duragraft_list h3 {
+		padding-bottom: 0;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_left h2, .duragraft_section .duragraft_section_dtls .duragraft_right h2 {
+		font-size: 22px;
+		padding-bottom: 0;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_left h3, .duragraft_section .duragraft_section_dtls .duragraft_left h3{
+		font-size: 16px;
+		line-height: 28px;
+		padding-bottom: 10px;
+	}
+	
+	.duragraft_bottom {
+		padding: 40px 0;
+	}
+	.duragraft_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		padding-bottom: 30px;
+	}
+	.duragraft_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+		padding-bottom: 0;
+	}	
+	.duragraft_bottom ul li .duragraft_bottom_text h4 {
+		font-size: 22px;
+		line-height: 38px;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_pic img {
+    width: 100%;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_text {
+		padding: 0 0;
+	}
+	/*---------------duragraft PAGE eND----------------------*/	
+	
+	    /*******************************
+	start: Inner page : Contact Us
+*******************************/
+    /* ================================= start: getinTouch Section ================================= */
+    .getinTouch-sec {
+        padding: 50px 0;
+    }
+
+    .contact_form {
+        padding: 30px 10px;
+        padding-right: 10px;
+        width: auto;
+        float: none;
+    }
+
+    .contact_form::after {
+        display: none;
+    }
+
+    .contact_info {
+        padding: 30px 10px 20px 10px;
+    }
+
+    .contact_form h2 {
+        font-size: 20px;
+        margin-bottom: 45px;
+    }
+
+    .contact_form h2::after {
+        width: 15%;
+    }
+
+    .contact_form input[type=text],
+    .contact_form input[type=email],
+    .contact_form input[type=number],
+    .contact_form input[type=password] {
+        font-size: 13px;
+        height: 50px;
+        padding: 0 20px;
+        margin-bottom: 15px;
+    }
+
+    .contact_form textarea {
+        font-size: 13px;
+        height: 140px;
+        margin-bottom: 20px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 13px;
+    }
+
+    .contact_info h4 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .contact_info h4 span {
+        font-size: 16px;
+    }
+
+    .contact_info h4 span::after {
+        width: 100px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 16px;
+        background-size: 15px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+    /*******************************
+	end: Inner page : Contact Us
+*******************************/
+	.portal ul li {
+	display: block;
+	width: auto;
+	margin-right: 0;
+	position: relative;
+	margin-bottom: 50px;
+}
+.portal ul li iframe {
+    width: 100%;
+    height: 300px;
+    position: relative;
+}	
+.portal {
+	padding: 60px 0 0 0;
+	overflow: hidden;
+	background: #e6e6e6;
+}	
+}
+
+@media only screen and (min-width:321px) and (max-width:480px) {
+
+.wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	.manu_header .manu_header_inner .logo {
+		padding-top: 0px;
+		width: 200px;
+	}
+	.manu_header .manu_header_inner .logo img {
+		width: 100%;
+	}
+	.manu_header .manu_header_inner {
+		padding-bottom: 7px;
+	}
+	
+	/*.banner_home img {
+		margin: 0 0 0 -480px;
+		width: 1070px;
+	}*/
+	
+	.manu_header.scrolled #header {
+		padding: 10px 0 0 0 !important;
+	}
+	#header {
+		padding: 5px 0 0 0 !important;
+	}
+	
+	/*.banner_home .captionBox {
+		top: 130px;
+	}*/
+	
+	.camera_wrap img {
+		width: 1000px !important;
+		position: relative;
+		left: 50%;
+		height: auto !important;
+		margin: 0 0 0 -500px !important;
+	}
+	#camera_wrap_2 {
+    	height: 400px !important;
+	}
+	#header {
+		padding: 7px 0 0 0 !important;
+	}
+	.banner_home .captionBox {
+		top: -270px;
+	}
+	.camera_pag {
+		bottom: 25px;
+		left: -31px;
+	}
+	.banner_home .caption {
+		width: auto;
+	}
+	h1.banner_home_heading::before {
+		top: -11px;
+	}
+	
+	h1.banner_home_heading {
+		font-size: 30px;
+		line-height: 43px;
+	}
+	.banner_home .caption p {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	
+	.banner_buttom {
+		padding: 11px 26px;
+		font-size: 14px;
+	}
+	.detail_sec .details_sec_left {
+		float: none;
+		width: auto;
+	}
+	
+	
+	h1.details_heading {
+		font-size: 22px;
+		line-height: 34px;
+	}
+	.detail_sec .details_sec_left .Krillase_sec {
+		padding: 15px;
+	}
+	.detail_sec .details_sec_left .Krillase_sec::after {
+		border-left: 150px solid #212121;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_pic {
+	padding: 13px 0;
+}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_pic img {
+		width: 100%;
+		height: auto;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls {
+		padding: 0 0 10px 0;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text ul li {
+		width: auto;
+		display: block;
+		margin-right: 0;
+		vertical-align: top;
+		margin-bottom: 10px;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text ul li h2 {
+		font-size: 20px;
+		padding-bottom: 4px;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text ul li p {
+		font-size: 14px;
+		line-height: 26px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li .treatment_txt h3 {
+	font-size: 14px;
+	line-height: 27px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li {
+		display: block;
+		width: auto;
+		vertical-align: top;
+		margin-right: 0;
+		overflow: hidden;
+		margin-bottom: 17px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li:last-child {
+		margin-bottom: 0;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls h2 {
+		font-size: 20px;
+		padding-bottom: 10px;
+	}
+	
+	.btn_dtls {
+		padding: 11px 26px;
+		font-size: 14px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text p {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	
+	.detail_sec .details_sec_right {
+		float: none;
+		width: auto;
+	}
+	.detail_sec .details_sec_right .search {
+		padding: 15px;
+	}
+	.detail_sec .details_sec_right .search::after {
+		border-left: 150px solid #212121;
+	}
+	.blogSearchBox input[type="text"] {
+		width: 80%;
+	}
+	
+	.detail_sec .details_sec_right .about {
+		padding: 15px;
+	}	
+	
+	
+	
+	.detail_sec .details_sec_right .about::after {
+		border-left: 150px solid #212121;
+	}
+	.detail_sec .details_sec_right .about .about_pic {
+		overflow: hidden;
+		padding: 10px 0;
+	}
+	.detail_sec .details_sec_right .about .about_pic img {
+		width: 100%;
+		height: auto;
+	}
+	.detail_sec .details_sec_right .about .about_txt p {
+		font-size: 14px;
+		line-height: 26px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls {
+		overflow: hidden;
+		padding: 23px 0 16px 0;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 {
+		margin-bottom: 0;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li{
+		margin-right: 5px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic {
+		padding: 20px 20px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic img {
+		width: 100%;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt {
+   	 	padding: 10px 0 5px 0;
+		overflow: hidden;
+		display: block;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h3 {
+		font-size: 20px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h4 {
+		font-size: 14px;
+		line-height: 17px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 .slick-dots {
+		padding-bottom: 0;
+	}
+	
+	
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li {
+		margin-right: 5Px;
+	}
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li .client_logo img {
+		width: auto;
+	}
+
+	.detail_sec .details_sec_right .patients {
+		padding:20px;
+	}
+	.detail_sec .details_sec_right .patients .patients_dtls {
+		padding: 20px 0 0 0;
+		overflow: hidden;
+	}
+	
+	
+	.detail_sec .details_sec_right .patients {
+		padding:15px;
+	}
+	.detail_sec .details_sec_right .patients::after {
+		border-left: 150px solid #212121;
+	}
+	
+	.detail_sec .details_sec_right .patients .patients_dtls {
+		padding: 20px 0 0 0;
+		overflow: hidden;
+	}
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_top .patients_pic {
+		border: 3px solid #1278c6;
+		height: 80px;
+		width: 80px;
+		margin-right: 20px;
+	}
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_top .patients_pic img {
+		width: 100%;
+	}
+	
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_top .patients_heading {
+		overflow: hidden;
+		padding-top:15px;
+	}
+	
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_top .patients_heading h3 {
+		font-size: 18px;
+		padding-bottom: 0
+	}
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_txt p {
+		font-size: 14px;
+		line-height: 26px;
+		padding-top: 46px;
+	}
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_txt span {
+		top: 29px;
+		color: #333333;
+	}
+	.detail_sec .details_sec_right .client {
+		padding: 15px;
+	}	
+	.detail_sec .details_sec_right .client::after {
+		border-left: 150px solid #212121;
+	}
+	.detail_sec .details_sec_right .client .client_dtls {
+		padding: 18px 0;
+		overflow: hidden;
+	}
+	
+	.detail_sec .blog_left {
+		float: none;
+		width: auto;
+	}
+	.detail_sec .blog_left .press::after {
+		border-left: 150px solid #212121;
+	}
+	
+	.detail_sec .blog_left .press {
+		padding: 15px;
+	}
+	.detail_sec .blog_left .press .press_pic {
+		padding: 10px 0;
+	}
+	.detail_sec .blog_left .press .press_pic img {
+		width: 100%;
+		height: auto;
+	}
+	.detail_sec .blog_left .press .press_txt {
+		padding-bottom: 10px;
+	}
+	.detail_sec .blog_left .press .press_txt h3 {
+		font-size: 18px;
+		line-height: 28px;
+		padding-bottom: 3px;
+	}
+	.detail_sec .blog_left .press .press_txt p {
+		font-size: 14px;
+		line-height: 25px;
+		padding-top: 0;
+	}
+	.detail_sec .blog_right {
+		float: none;
+		width: auto;
+	}
+	.detail_sec .blog_right .news {
+		padding: 15px;
+	}
+	.detail_sec .blog_right .news::after {
+		border-left: 150px solid #212121;
+	}
+	.detail_sec .blog_right .news ul {
+		padding: 6px 0 0 0px;
+	}
+	.detail_sec .blog_right .news ul li {
+		padding: 14px 0;
+	}
+	.detail_sec .blog_right .news ul li .news_pic {
+		float: none;
+		margin-right: 0;
+	}
+	.detail_sec .blog_right .news ul li .news_pic img {
+		width: 100%;
+		height: 148px;
+	}
+	.detail_sec .blog_right .news ul li .news_dtls {
+		overflow: hidden;
+		padding-top: 6px;
+	}
+	.detail_sec .blog_right .news ul li .news_dtls p {
+		font-size: 14px;
+		line-height: 23px;
+	}
+	
+/******************
+	footer-start
+**************/
+
+.footer {
+	padding: 40px 0;
+}
+.footer::before {
+	display: none;
+}
+.footer_boobs {
+	display: none;
+}
+
+.footer ul li:first-child {
+	margin-right: 0;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.footer ul li .footer_logo img {
+	width: 50%;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+.footer ul li h4 {
+	font-size: 20px;
+}
+
+.footer ul li .social_sec {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.footer ul li .social_sec p {
+	text-align: center;
+}
+
+.footer ul li {
+	width: 100%;
+	margin-right: 0;
+	margin-bottom: 20px;
+}
+.footer ul li ul li {
+	margin-bottom: 10px !important;
+}
+.footer ul li:last-child{
+	margin-bottom:0;
+}
+
+/******************
+	footer-End
+**************/
+/*---------------people_page star----------------------*/	
+	.banner_inner img {
+		width: 640px;
+		margin: 0px 0 0 -280px;
+	}
+	
+	.client #slider_5 li .clinnts_pic img {
+    	width: 100%;
+	}
+	
+	.people_dtls_top h5 {
+		 font-size: 16px;
+   		 line-height: 36px;
+	}	
+	.banner_inner .captionBox {
+		top: 119px;
+	
+	}
+	
+	.people_dtls_top {
+   	 	padding: 15px 0;
+	}
+	
+	h1.banner_home_heading.people {
+		padding: 10px 0;
+	}
+	
+	.people_sec #slider_4 li .people_pic {
+		background: #e3e3e3;
+		padding: 38px 38px;
+	}
+	.client #slider_5 li .clinnts_pic img {
+		width: auto;
+		margin: 0 auto;
+	}	
+	.people_sec #slider_4 li .peopole_txt h3 {
+		font-size: 20px;
+}
+	.people_sec #slider_4 li .peopole_txt h4 {
+		font-size: 16px;
+	}
+	.people_sec #slider_4 li .people_pic img {
+    width: 100%;
+	}
+	
+	.meet_team .team_details .meet_team_pic {
+   		 padding: 20px;
+		float: none;
+	}
+	
+	.meet_team .meet_team_pic img {
+		object-fit: cover;
+		width: 100%;
+		height: auto;
+	}
+	.meet_team .team_details .meet_team_text {
+		float: none;
+		width: auto;
+		padding-top: 0;
+		margin-top: 30px;
+	}
+	.meet_team .team_details .meet_team_text p {
+		font-size: 16px;
+		padding-top: 17px;
+	}
+	
+	.aboutUS_meet_team_middle ul li {
+   	 	margin-top: 100px;
+		width: auto;
+		float: none;
+		padding: 0;
+	}
+	h1.details_heading.center {
+		text-align: center;
+		font-size: 26px;
+	}
+	.meet_team_middle {
+		padding: 40px 0;
+	}
+	.meet_team {
+		padding: 40px 0;
+	}
+	.meet_team .team_details {
+	margin-top: 30px;
+	}
+	
+	.meet_team .team_details .meet_team_text h4 {
+	font-size: 20px;
+	}
+/*---------------people_page End----------------------*/
+/*---------------people_page End----------------------*/	
+	.blog_cmd ul li a {
+		font-size: 15px;
+	}
+	.blog_cmd ul li {
+		padding-right: 11px;
+		padding: 13px 4px;
+	}
+	.detail_sec .blog_left .press .press_pic.blog {
+   	 	padding: 10px 0 0 0;
+	}
+/*---------------patients page start----------------------*/	
+.patients_page {
+	padding: 20px 0;
+}	
+.patients_page .patients_page_pic {
+	padding: 30px;
+}	
+	
+.patients_page .patients_page_pic {
+    width: auto;
+    float: none;
+    margin-right: 0;
+}
+	
+.patients_page .patients_page_txt h4 {
+    font-size: 20px;
+    line-height: 35px;
+}
+.patients_says {
+	padding: 40px 0;
+}	
+.patients_says .patients_dtls #slider_6 li {
+    margin-right: 0;
+	padding: 20px;
+}	
+.patients_page .patients_page_txt p {
+	font-size: 16px;
+	line-height: 30px;
+}	
+.patients_says .patients_dtls #slider_6 li .patients_top .patients_heading {
+    padding-top: 32px;
+}	
+.patients_says .patients_dtls #slider_6 li .patients_top .patients_heading h3 {
+	font-size: 20px;
+}	
+.patients_says .patients_dtls #slider_6 li .patients_txt span {
+    top: 28px;
+}
+.patients_says .patients_dtls #slider_6 li .patients_txt p {
+    padding-top: 48px;
+}	
+	
+/*---------------patients page End----------------------*/		
+	
+/*---------------partner page start----------------------*/
+
+.partners_sec {
+	padding: 40px 0 20px 0;
+}	
+.partners_sec ul li {
+		display: inline-block;
+		width: 30%;
+}
+.partners_sec ul li .partners_pic .overlay h3 {
+    padding: 50px 0;
+    font-size: 24px;
+}
+.partners_sec ul li {
+	display: block;
+	width: auto;
+	margin-right: 0;
+}
+	
+/*---------------partner page ENd----------------------*/		
+
+	
+/*****************************************
+	krillase_kpage _ start
+****************************************/
+	.krillase_section {
+		padding: 40px 0 40px 0;
+	}
+    .krillase_center_logo {
+        display: none;
+    }
+
+    .krillase_section .krillase_section_dtls .krillase_left,
+    .krillase_section .krillase_section_dtls .krillase_right {
+        width: auto;
+		display: block;
+		float: none;
+    }
+	.krillase_Work_sec ul {
+		margin-top: 30px;
+	}
+	.krillase_Work_sec ul li {
+		width: 41%;
+	}
+	.krillase_Work_sec ul li {
+		width: auto;
+		display: block;
+		margin-right: 0;
+		margin-bottom: 20px;
+		padding: 20px;
+	}
+	
+	.krillase_Work_sec ul li h2 {
+		font-size: 20px;
+		line-height: 31px;
+		padding-bottom: 0px;
+	}
+	.krillase_Work_sec ul li:last-child{
+		margin-bottom: 0;
+	}
+	
+	.krillase_section .krillase_section_dtls {
+    	margin-top: 20px;
+	}
+	.krillase_section .krillase_section_dtls .krillase_left h2, .krillase_section .krillase_section_dtls .krillase_right h2 {
+	font-size: 26px;
+	line-height: 35px;
+	padding-bottom: 15px;
+	}
+	.krillase_section .krillase_section_dtls .krillase_left li, .krillase_section .krillase_section_dtls .krillase_right li{
+		display: block;
+		vertical-align: top;
+		margin-bottom: 24px;
+		overflow: hidden;
+	}
+	.krillase_Work_sec {
+		padding: 40px 0 40px 0;
+	}
+    /*****************************************
+	krillase_kpage _  end
+****************************************/	
+	
+			
+	.banner_inner .captionBox {
+  	 	 top: 100px;
+	}
+	.banner_inner .caption h2 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.SC_section_top {
+		padding: 30px 0;
+		overflow: hidden;
+	}
+	.SC_section_top h3 {
+		font-size: 16px;
+		line-height: 30px;
+	}
+	
+	.SC_section_middle {
+		padding: 30px 0;
+	}
+	.SC_section_middle h2 {
+		font-size: 22px;
+		line-height: 33px;
+	}
+	.SC_section_middle ul {
+		padding-top: 20px;
+	}
+	.SC_section_middle ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+	}	
+	.SC_section_middle ul li .SC_section_pic img {
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+		display: block;
+	}
+	.SC_section_middle ul li:last-child {
+		margin-right: 0;
+		width: auto;
+		margin-top: 20px;
+	}
+	.SC_section_bottom {
+		padding: 40px 0;
+	}
+	.SC_section_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+	}
+	
+	.SC_section_bottom ul li .SC_section_bottom_text {
+		padding: 0 0 30px 0;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text h2 {
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text p {
+		font-size: 18px;
+		line-height: 32px;
+		padding-top: 13px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text ul {
+		padding: 0 0 2px 0;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text ul li {
+		font-size: 15px;
+		line-height: 24px;
+		padding: 10px 0 0px 28px;
+		background: url(../images/hand.png) no-repeat 0 15px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_pic {
+		padding: 30px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_pic img {
+		width: 100%;
+	}
+	.SC_section_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}	
+	
+	.SC_section_strip {
+		padding: 40px 0;
+
+	}
+	
+	.SC_section_strip h4 {
+		width: auto;
+		margin: 0 auto;
+		font-size: 16px;
+		line-height: 30px;
+	}
+	
+		/*---------------duragraft PAGE START----------------------*/	
+	
+	.duragraft_top {
+		padding: 60px 0;
+	}
+	
+	.duragraft_top h2 {
+		font-size: 25px;
+		line-height: 51px;
+	}
+	
+	.duragraft_top ul {
+		padding-top: 30px;
+	}
+	
+	.duragraft_top ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	
+	.duragraft_top ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h4 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h3 {
+		font-size: 25px;
+		line-height: 42px;
+	}
+	.duragraft_top ul li .duragraft_top_text ul li {
+		font-size: 16px;
+		padding: 7px 0 0px 28px;
+		background: url(../images/hand.png) no-repeat 0 20px;
+		width: auto;
+		margin-bottom: 0;
+	}
+	
+	.duragraft_strip ul li {
+		width: auto;
+		display: block;
+	}
+	.duragraft_strip ul li:last-child {
+		width: auto;
+		float: left;
+	}
+	.duragraft_strip ul li h4 {
+		font-size: 28px;
+		line-height: 40px;
+	}
+	.duragraft_section .duragraft_section_dtls {
+		margin-top: 30px;
+	}
+	h1.details_heading.center {
+	text-align: center;
+	font-size: 40px;
+	}
+	.duragraft_section {
+		padding: 60px 0;
+	}
+	
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_center_logo {
+	display: none;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right, .duragraft_section .duragraft_section_dtls .duragraft_left {
+		width: auto;
+		float: none;
+		overflow: hidden;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_left li, .duragraft_section .duragraft_section_dtls .duragraft_right li {
+		margin-bottom: 20px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right li .duragraft_list h3 {
+		padding-bottom: 0;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_left h2 {
+	font-size: 27px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right h2 {
+	font-size: 27px;
+	}
+	
+	.duragraft_bottom {
+		padding: 60px 0;
+	}
+	.duragraft_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		padding-bottom: 30px;
+	}
+	.duragraft_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+		padding-bottom: 0;
+	}	
+	.duragraft_bottom ul li .duragraft_bottom_text h4 {
+		font-size: 25px;
+		line-height: 41px;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_pic img {
+    width: 100%;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_text {
+		padding: 0 0;
+	}
+	/*---------------duragraft PAGE eND----------------------*/	
+	
+			/*---------------duragraft PAGE START----------------------*/	
+	
+	.duragraft_top {
+		padding: 40px 0;
+	}
+	
+	.duragraft_top h2 {
+		font-size: 20px;
+		line-height: 37px;
+	}
+	
+	.duragraft_top ul {
+		padding-top: 30px;
+	}
+	
+	.duragraft_top ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	
+	.duragraft_top ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h4 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h3 {
+		font-size: 22px;
+		line-height: 35px;
+	}
+	.duragraft_top ul li .duragraft_top_text ul li {
+		font-size: 16px;
+		padding: 7px 0 0px 28px;
+		background: url(../images/hand.png) no-repeat 0 20px;
+		width: auto;
+		margin-bottom: 0;
+	}
+	
+	.duragraft_strip ul li {
+		width: auto;
+		display: block;
+	}
+	.duragraft_strip ul li:last-child {
+		width: auto;
+		float: left;
+	}
+	.duragraft_strip {
+		padding: 20px 0;
+	}
+	
+	.duragraft_strip ul li h4 {
+		font-size: 22px;
+		line-height: 40px;
+	}
+	.duragraft_section .duragraft_section_dtls {
+		margin-top: 10px;
+	}
+	h1.details_heading.center {
+		text-align: center;
+		font-size: 26px;
+	}
+	.duragraft_section {
+		padding: 40px 0;
+	}
+	
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_center_logo {
+	display: none;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right, .duragraft_section .duragraft_section_dtls .duragraft_left {
+		width: auto;
+		float: none;
+		overflow: hidden;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_left li, .duragraft_section .duragraft_section_dtls .duragraft_right li {
+		margin-bottom: 20px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right li .duragraft_list h3 {
+		padding-bottom: 0;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_left h2, .duragraft_section .duragraft_section_dtls .duragraft_right h2 {
+		font-size: 22px;
+		padding-bottom: 0;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_left h3, .duragraft_section .duragraft_section_dtls .duragraft_right h3{
+		font-size: 16px;
+		line-height: 28px;
+		padding-bottom: 10px;
+		padding-top: 0;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_left li img , .duragraft_section .duragraft_section_dtls .duragraft_right li img  {
+		margin-right: 14px;
+		padding: 14px;
+	}
+	.duragraft_bottom {
+		padding: 40px 0;
+	}
+	.duragraft_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		padding-bottom: 30px;
+	}
+	.duragraft_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+		padding-bottom: 0;
+	}	
+	.duragraft_bottom ul li .duragraft_bottom_text h4 {
+		font-size: 22px;
+		line-height: 38px;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_pic img {
+    width: 100%;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_text {
+		padding: 0 0;
+	}
+	/*---------------duragraft PAGE eND----------------------*/	
+	    /*******************************
+	start: Inner page : Contact Us
+*******************************/
+    /* ================================= start: getinTouch Section ================================= */
+    .getinTouch-sec {
+        padding: 30px 0;
+    }
+
+    .contact_form {
+        padding: 30px 10px;
+        padding-right: 10px;
+        width: auto;
+    }
+
+    .contact_form::after {
+        display: none;
+    }
+
+    .contact_info {
+        padding: 30px 0 20px 10px;
+    }
+
+    .innerBanner .captionBox {
+        width: 60%;
+    }
+
+    .contact_form h2 {
+        margin-bottom: 35px;
+        font-size: 20px;
+    }
+
+    .contact_form h2::after {
+        width: 15%;
+    }
+
+    .contact_form input[type=text],
+    .contact_form input[type=email],
+    .contact_form input[type=number],
+    .contact_form input[type=password] {
+        font-size: 13px;
+        height: 50px;
+        padding: 0 20px;
+        margin-bottom: 10px;
+    }
+
+    .contact_form textarea {
+        font-size: 13px;
+        height: 120px;
+        margin-bottom: 20px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 14px;
+    }
+
+    .contact_info h4 {
+        font-size: 16px;
+        margin-bottom: 35px;
+    }
+
+    .contact_info h4 span {
+        font-size: 14px;
+    }
+
+    .contact_info h4 span::after {
+        width: 100px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 14px;
+        background-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+    /*******************************
+start: Inner page : About Us
+*******************************/
+	.portal ul li {
+	display: block;
+	width: auto;
+	margin-right: 0;
+	position: relative;
+	margin-bottom: 50px;
+}
+.portal ul li iframe {
+    width: 100%;
+    height: 300px;
+    position: relative;
+}	
+.portal {
+	padding: 60px 0 0 0;
+	overflow: hidden;
+	background: #e6e6e6;
+}	
+	
+.meet_team_middle ul li .overlay {
+	left: 0;
+	width: auto;
+}	
+	
+}
+
+@media only screen and (max-width:320px) {
+.wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	.manu_header .manu_header_inner .logo {
+		padding-top: 0px;
+		width: 200px;
+	}
+	.manu_header .manu_header_inner .logo img {
+		width: 100%;
+	}
+	.manu_header .manu_header_inner {
+		padding-bottom: 7px;
+	}
+	
+	/*.banner_home img {
+		margin: 0 0 0 -480px;
+		width: 1070px;
+	}*/
+	
+	.manu_header.scrolled #header {
+		padding: 10px 0 0 0 !important;
+	}
+	#header {
+		padding: 5px 0 0 0 !important;
+	}
+	
+	/*.banner_home .captionBox {
+		top: 130px;
+	}*/
+	
+	.camera_wrap img {
+		width: 1000px !important;
+		position: relative;
+		left: 50%;
+		height: auto !important;
+		margin: 0 0 0 -500px !important;
+	}
+	#camera_wrap_2 {
+    	height: 400px !important;
+	}
+	#header {
+		padding: 7px 0 0 0 !important;
+	}
+	.banner_home .captionBox {
+		top: -270px;
+	}
+	.camera_pag {
+		bottom: 25px;
+		left: -31px;
+	}
+	.banner_home .caption {
+		width: auto;
+	}
+	h1.banner_home_heading::before {
+		top: -11px;
+	}
+	
+	h1.banner_home_heading {
+		font-size: 30px;
+		line-height: 43px;
+	}
+	.banner_home .caption p {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	
+	.banner_buttom {
+		padding: 11px 26px;
+		font-size: 14px;
+	}
+	.detail_sec .details_sec_left {
+		float: none;
+		width: auto;
+	}
+	
+	
+	h1.details_heading {
+		font-size: 22px;
+		line-height: 34px;
+	}
+	.detail_sec .details_sec_left .Krillase_sec {
+		padding: 15px;
+	}
+	.detail_sec .details_sec_left .Krillase_sec::after {
+		border-left: 150px solid #212121;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_pic {
+	padding: 13px 0;
+}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_pic img {
+		width: 100%;
+		height: auto;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls {
+		padding: 0 0 10px 0;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text ul li {
+		width: auto;
+		display: block;
+		margin-right: 0;
+		vertical-align: top;
+		margin-bottom: 10px;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text ul li h2 {
+		font-size: 20px;
+		padding-bottom: 4px;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text ul li p {
+		font-size: 14px;
+		line-height: 26px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li .treatment_txt h3 {
+	font-size: 14px;
+	line-height: 27px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li {
+		display: block;
+		width: auto;
+		vertical-align: top;
+		margin-right: 0;
+		overflow: hidden;
+		margin-bottom: 17px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls ul li:last-child {
+		margin-bottom: 0;
+	}
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text_dtls h2 {
+		font-size: 20px;
+		padding-bottom: 10px;
+	}
+	
+	.btn_dtls {
+		padding: 11px 26px;
+		font-size: 14px;
+	}
+	
+	.detail_sec .details_sec_left .Krillase_sec .Krillase_sec_text p {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	
+	.detail_sec .details_sec_right {
+		float: none;
+		width: auto;
+	}
+	.detail_sec .details_sec_right .search {
+		padding: 15px;
+	}
+	.detail_sec .details_sec_right .search::after {
+		border-left: 150px solid #212121;
+	}
+	.blogSearchBox input[type="text"] {
+		width: 80%;
+	}
+	
+	.detail_sec .details_sec_right .about {
+		padding: 15px;
+	}	
+	
+	
+	
+	.detail_sec .details_sec_right .about::after {
+		border-left: 150px solid #212121;
+	}
+	.detail_sec .details_sec_right .about .about_pic {
+		overflow: hidden;
+		padding: 10px 0;
+	}
+	.detail_sec .details_sec_right .about .about_pic img {
+		width: 100%;
+		height: auto;
+	}
+	.detail_sec .details_sec_right .about .about_txt p {
+		font-size: 14px;
+		line-height: 26px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls {
+		overflow: hidden;
+		padding: 23px 0 16px 0;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 {
+		margin-bottom: 0;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li{
+		margin-right: 5px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic {
+		padding: 20px 20px;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .people_pic img {
+		width: 100%;
+	}
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt {
+   	 	padding: 10px 0 5px 0;
+		overflow: hidden;
+		display: block;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h3 {
+		font-size: 20px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 li .peopole_txt h4 {
+		font-size: 14px;
+		line-height: 17px;
+	}
+	
+	.detail_sec .details_sec_right .about .people_dtls #slider_3 .slick-dots {
+		padding-bottom: 0;
+	}
+	
+	
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li {
+		margin-right: 5Px;
+	}
+	.detail_sec .details_sec_right .client .client_dtls #slider_2 li .client_logo img {
+		width: auto;
+	}
+
+	.detail_sec .details_sec_right .patients {
+		padding:20px;
+	}
+	.detail_sec .details_sec_right .patients .patients_dtls {
+		padding: 20px 0 0 0;
+		overflow: hidden;
+	}
+	
+	
+	.detail_sec .details_sec_right .patients {
+		padding:15px;
+	}
+	.detail_sec .details_sec_right .patients::after {
+		border-left: 150px solid #212121;
+	}
+	
+	.detail_sec .details_sec_right .patients .patients_dtls {
+		padding: 20px 0 0 0;
+		overflow: hidden;
+	}
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_top .patients_pic {
+		border: 3px solid #1278c6;
+		height: 80px;
+		width: 80px;
+		margin-right: 20px;
+	}
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_top .patients_pic img {
+		width: 100%;
+	}
+	
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_top .patients_heading {
+		overflow: hidden;
+		padding-top:15px;
+	}
+	
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_top .patients_heading h3 {
+		font-size: 18px;
+		padding-bottom: 0
+	}
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_txt p {
+		font-size: 14px;
+		line-height: 26px;
+		padding-top: 46px;
+	}
+	.detail_sec .details_sec_right .patients .patients_dtls #slider_1 li .patients_txt span {
+		top: 29px;
+		color: #333333;
+	}
+	.detail_sec .details_sec_right .client {
+		padding: 15px;
+	}	
+	.detail_sec .details_sec_right .client::after {
+		border-left: 150px solid #212121;
+	}
+	.detail_sec .details_sec_right .client .client_dtls {
+		padding: 18px 0;
+		overflow: hidden;
+	}
+	
+	.detail_sec .blog_left {
+		float: none;
+		width: auto;
+	}
+	.detail_sec .blog_left .press::after {
+		border-left: 150px solid #212121;
+	}
+	
+	.detail_sec .blog_left .press {
+		padding: 15px;
+	}
+	.detail_sec .blog_left .press .press_pic {
+		padding: 10px 0;
+	}
+	.detail_sec .blog_left .press .press_pic img {
+		width: 100%;
+		height: auto;
+	}
+	.detail_sec .blog_left .press .press_txt {
+		padding-bottom: 10px;
+	}
+	.detail_sec .blog_left .press .press_txt h3 {
+		font-size: 18px;
+		line-height: 28px;
+		padding-bottom: 3px;
+	}
+	.detail_sec .blog_left .press .press_txt p {
+		font-size: 14px;
+		line-height: 25px;
+		padding-top: 0;
+	}
+	.detail_sec .blog_right {
+		float: none;
+		width: auto;
+	}
+	.detail_sec .blog_right .news {
+		padding: 15px;
+	}
+	.detail_sec .blog_right .news::after {
+		border-left: 150px solid #212121;
+	}
+	.detail_sec .blog_right .news ul {
+		padding: 6px 0 0 0px;
+	}
+	.detail_sec .blog_right .news ul li {
+		padding: 14px 0;
+	}
+	.detail_sec .blog_right .news ul li .news_pic {
+		float: none;
+		margin-right: 0;
+	}
+	.detail_sec .blog_right .news ul li .news_pic img {
+		width: 100%;
+		height: 148px;
+	}
+	.detail_sec .blog_right .news ul li .news_dtls {
+		overflow: hidden;
+		padding-top: 6px;
+	}
+	.detail_sec .blog_right .news ul li .news_dtls p {
+		font-size: 14px;
+		line-height: 23px;
+	}
+	
+/******************
+	footer-start
+**************/
+
+.footer {
+	padding: 40px 0;
+}
+.footer::before {
+	display: none;
+}
+.footer_boobs {
+	display: none;
+}
+
+.footer ul li:first-child {
+	margin-right: 0;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.footer ul li .footer_logo img {
+	width: 50%;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+.footer ul li h4 {
+	font-size: 20px;
+}
+
+.footer ul li .social_sec {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.footer ul li .social_sec p {
+	text-align: center;
+}
+
+.footer ul li {
+	width: 100%;
+	margin-right: 0;
+	margin-bottom: 20px;
+}
+.footer ul li ul li {
+	margin-bottom: 10px !important;
+}
+.footer ul li:last-child{
+	margin-bottom:0;
+}
+
+/******************
+	footer-End
+**************/
+/*---------------people_page star----------------------*/	
+	.banner_inner img {
+		width: 640px;
+		margin: 0px 0 0 -280px;
+	}
+	
+	.client #slider_5 li .clinnts_pic img {
+    	width: 100%;
+	}
+	
+	.people_dtls_top h5 {
+		 font-size: 16px;
+   		 line-height: 36px;
+	}	
+	.banner_inner .captionBox {
+		top: 119px;
+	
+	}
+	
+	.people_dtls_top {
+   	 	padding: 15px 0;
+	}
+	
+	h1.banner_home_heading.people {
+		padding: 10px 0;
+	}
+	
+	.people_sec #slider_4 li .people_pic {
+		background: #e3e3e3;
+		padding: 38px 38px;
+	}
+	.client #slider_5 li .clinnts_pic img {
+		width: auto;
+		margin: 0 auto;
+	}	
+	.people_sec #slider_4 li .peopole_txt h3 {
+		font-size: 20px;
+}
+	.people_sec #slider_4 li .peopole_txt h4 {
+		font-size: 16px;
+	}
+	.people_sec #slider_4 li .people_pic img {
+    width: 100%;
+	}
+	
+	.meet_team .team_details .meet_team_pic {
+   		 padding: 20px;
+		float: none;
+	}
+	
+	.meet_team .meet_team_pic img {
+		object-fit: cover;
+		width: 100%;
+		height: auto;
+	}
+	.meet_team .team_details .meet_team_text {
+		float: none;
+		width: auto;
+		padding-top: 0;
+		margin-top: 30px;
+	}
+	.meet_team .team_details .meet_team_text p {
+		font-size: 16px;
+		padding-top: 17px;
+	}
+	
+	.aboutUS_meet_team_middle ul li {
+   	 	margin-top: 100px;
+		width: auto;
+		float: none;
+		padding: 0;
+	}
+	h1.details_heading.center {
+		text-align: center;
+		font-size: 26px;
+	}
+	.meet_team_middle {
+		padding: 40px 0;
+	}
+	.meet_team {
+		padding: 40px 0;
+	}
+	.meet_team .team_details {
+	margin-top: 30px;
+	}
+	
+	.meet_team .team_details .meet_team_text h4 {
+	font-size: 20px;
+	}
+/*---------------people_page End----------------------*/
+/*---------------people_page End----------------------*/	
+	.blog_cmd ul li a {
+		font-size: 15px;
+	}
+	.blog_cmd ul li {
+		padding-right: 11px;
+		padding: 13px 4px;
+	}
+	.detail_sec .blog_left .press .press_pic.blog {
+   	 	padding: 10px 0 0 0;
+	}
+/*---------------patients page start----------------------*/	
+.patients_page {
+	padding: 20px 0;
+}	
+.patients_page .patients_page_pic {
+	padding: 30px;
+}	
+	
+.patients_page .patients_page_pic {
+    width: auto;
+    float: none;
+    margin-right: 0;
+}
+	
+.patients_page .patients_page_txt h4 {
+    font-size: 20px;
+    line-height: 35px;
+}
+.patients_says {
+	padding: 40px 0;
+}	
+.patients_says .patients_dtls #slider_6 li {
+    margin-right: 0;
+	padding: 20px;
+}	
+.patients_page .patients_page_txt p {
+	font-size: 16px;
+	line-height: 30px;
+}	
+.patients_says .patients_dtls #slider_6 li .patients_top .patients_heading {
+    padding-top: 32px;
+}	
+.patients_says .patients_dtls #slider_6 li .patients_top .patients_heading h3 {
+	font-size: 20px;
+}	
+.patients_says .patients_dtls #slider_6 li .patients_txt span {
+    top: 28px;
+}
+.patients_says .patients_dtls #slider_6 li .patients_txt p {
+    padding-top: 48px;
+}	
+	
+/*---------------patients page End----------------------*/		
+	
+/*---------------partner page start----------------------*/
+
+.partners_sec {
+	padding: 40px 0 20px 0;
+}	
+.partners_sec ul li {
+		display: inline-block;
+		width: 30%;
+}
+.partners_sec ul li .partners_pic .overlay h3 {
+    padding: 50px 0;
+    font-size: 24px;
+}
+.partners_sec ul li {
+	display: block;
+	width: auto;
+	margin-right: 0;
+}
+	
+/*---------------partner page ENd----------------------*/		
+
+	
+/*****************************************
+	krillase_kpage _ start
+****************************************/
+	.krillase_section {
+		padding: 40px 0 40px 0;
+	}
+    .krillase_center_logo {
+        display: none;
+    }
+
+    .krillase_section .krillase_section_dtls .krillase_left,
+    .krillase_section .krillase_section_dtls .krillase_right {
+        width: auto;
+		display: block;
+		float: none;
+    }
+	.krillase_Work_sec ul {
+		margin-top: 30px;
+	}
+	.krillase_Work_sec ul li {
+		width: 41%;
+	}
+	.krillase_Work_sec ul li {
+		width: auto;
+		display: block;
+		margin-right: 0;
+		margin-bottom: 20px;
+		padding: 20px;
+	}
+	
+	.krillase_Work_sec ul li h2 {
+		font-size: 20px;
+		line-height: 31px;
+		padding-bottom: 0px;
+	}
+	.krillase_Work_sec ul li:last-child{
+		margin-bottom: 0;
+	}
+	
+	.krillase_section .krillase_section_dtls {
+    	margin-top: 20px;
+	}
+	.krillase_section .krillase_section_dtls .krillase_left h2, .krillase_section .krillase_section_dtls .krillase_right h2 {
+	font-size: 26px;
+	line-height: 35px;
+	padding-bottom: 15px;
+	}
+	.krillase_section .krillase_section_dtls .krillase_left li, .krillase_section .krillase_section_dtls .krillase_right li{
+		display: block;
+		vertical-align: top;
+		margin-bottom: 24px;
+		overflow: hidden;
+	}
+	.krillase_Work_sec {
+		padding: 40px 0 40px 0;
+	}
+    /*****************************************
+	krillase_kpage _  end
+****************************************/	
+	
+			
+	.banner_inner .captionBox {
+  	 	 top: 100px;
+	}
+	.banner_inner .caption h2 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.SC_section_top {
+		padding: 30px 0;
+		overflow: hidden;
+	}
+	.SC_section_top h3 {
+		font-size: 16px;
+		line-height: 30px;
+	}
+	
+	.SC_section_middle {
+		padding: 30px 0;
+	}
+	.SC_section_middle h2 {
+		font-size: 22px;
+		line-height: 33px;
+	}
+	.SC_section_middle ul {
+		padding-top: 20px;
+	}
+	.SC_section_middle ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+	}	
+	.SC_section_middle ul li .SC_section_pic img {
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+		display: block;
+	}
+	.SC_section_middle ul li:last-child {
+		margin-right: 0;
+		width: auto;
+		margin-top: 20px;
+	}
+	.SC_section_bottom {
+		padding: 40px 0;
+	}
+	.SC_section_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+	}
+	
+	.SC_section_bottom ul li .SC_section_bottom_text {
+		padding: 0 0 30px 0;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text h2 {
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text p {
+		font-size: 18px;
+		line-height: 32px;
+		padding-top: 13px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text ul {
+		padding: 0 0 2px 0;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_text ul li {
+		font-size: 15px;
+		line-height: 24px;
+		padding: 10px 0 0px 28px;
+		background: url(../images/hand.png) no-repeat 0 15px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_pic {
+		padding: 30px;
+	}
+	.SC_section_bottom ul li .SC_section_bottom_pic img {
+		width: 100%;
+	}
+	.SC_section_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}	
+	
+	.SC_section_strip {
+		padding: 40px 0;
+
+	}
+	
+	.SC_section_strip h4 {
+		width: auto;
+		margin: 0 auto;
+		font-size: 16px;
+		line-height: 30px;
+	}
+	
+		/*---------------duragraft PAGE START----------------------*/	
+	
+	.duragraft_top {
+		padding: 60px 0;
+	}
+	
+	.duragraft_top h2 {
+		font-size: 25px;
+		line-height: 51px;
+	}
+	
+	.duragraft_top ul {
+		padding-top: 30px;
+	}
+	
+	.duragraft_top ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	
+	.duragraft_top ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h4 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h3 {
+		font-size: 25px;
+		line-height: 42px;
+	}
+	.duragraft_top ul li .duragraft_top_text ul li {
+		font-size: 16px;
+		padding: 7px 0 0px 28px;
+		background: url(../images/hand.png) no-repeat 0 20px;
+		width: auto;
+		margin-bottom: 0;
+	}
+	
+	.duragraft_strip ul li {
+		width: auto;
+		display: block;
+	}
+	.duragraft_strip ul li:last-child {
+		width: auto;
+		float: left;
+	}
+	.duragraft_strip ul li h4 {
+		font-size: 28px;
+		line-height: 40px;
+	}
+	.duragraft_section .duragraft_section_dtls {
+		margin-top: 30px;
+	}
+	h1.details_heading.center {
+	text-align: center;
+	font-size: 40px;
+	}
+	.duragraft_section {
+		padding: 60px 0;
+	}
+	
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_center_logo {
+	display: none;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right, .duragraft_section .duragraft_section_dtls .duragraft_left {
+		width: auto;
+		float: none;
+		overflow: hidden;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_left li, .duragraft_section .duragraft_section_dtls .duragraft_right li {
+		margin-bottom: 20px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right li .duragraft_list h3 {
+		padding-bottom: 0;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_left h2 {
+	font-size: 27px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right h2 {
+	font-size: 27px;
+	}
+	
+	.duragraft_bottom {
+		padding: 60px 0;
+	}
+	.duragraft_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		padding-bottom: 30px;
+	}
+	.duragraft_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+		padding-bottom: 0;
+	}	
+	.duragraft_bottom ul li .duragraft_bottom_text h4 {
+		font-size: 25px;
+		line-height: 41px;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_pic img {
+    width: 100%;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_text {
+		padding: 0 0;
+	}
+	/*---------------duragraft PAGE eND----------------------*/	
+	
+			/*---------------duragraft PAGE START----------------------*/	
+	
+	.duragraft_top {
+		padding: 40px 0;
+	}
+	
+	.duragraft_top h2 {
+		font-size: 20px;
+		line-height: 37px;
+	}
+	
+	.duragraft_top ul {
+		padding-top: 30px;
+	}
+	
+	.duragraft_top ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	
+	.duragraft_top ul li:last-child {
+		margin-right: 0;
+		width: auto;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h4 {
+		font-size: 18px;
+		line-height: 32px;
+	}
+	
+	.duragraft_top ul li .duragraft_top_text h3 {
+		font-size: 22px;
+		line-height: 35px;
+	}
+	.duragraft_top ul li .duragraft_top_text ul li {
+		font-size: 16px;
+		padding: 7px 0 0px 28px;
+		background: url(../images/hand.png) no-repeat 0 20px;
+		width: auto;
+		margin-bottom: 0;
+	}
+	
+	.duragraft_strip ul li {
+		width: auto;
+		display: block;
+	}
+	.duragraft_strip ul li:last-child {
+		width: auto;
+		float: left;
+	}
+	.duragraft_strip {
+		padding: 20px 0;
+	}
+	
+	.duragraft_strip ul li h4 {
+		font-size: 22px;
+		line-height: 40px;
+	}
+	.duragraft_section .duragraft_section_dtls {
+		margin-top: 10px;
+	}
+	h1.details_heading.center {
+		text-align: center;
+		font-size: 26px;
+	}
+	.duragraft_section {
+		padding: 40px 0;
+	}
+	
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_center_logo {
+	display: none;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right, .duragraft_section .duragraft_section_dtls .duragraft_left {
+		width: auto;
+		float: none;
+		overflow: hidden;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_left li, .duragraft_section .duragraft_section_dtls .duragraft_right li {
+		margin-bottom: 20px;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_right li .duragraft_list h3 {
+		padding-bottom: 0;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_left h2, .duragraft_section .duragraft_section_dtls .duragraft_right h2 {
+		font-size: 22px;
+		padding-bottom: 0;
+	}
+	
+	.duragraft_section .duragraft_section_dtls .duragraft_left h3, .duragraft_section .duragraft_section_dtls .duragraft_right h3{
+		font-size: 16px;
+		line-height: 28px;
+		padding-bottom: 10px;
+		padding-top: 0;
+	}
+	.duragraft_section .duragraft_section_dtls .duragraft_left li img , .duragraft_section .duragraft_section_dtls .duragraft_right li img  {
+		margin-right: 14px;
+		padding: 14px;
+	}
+	.duragraft_bottom {
+		padding: 40px 0;
+	}
+	.duragraft_bottom ul li {
+		display: block;
+		width: auto;
+		margin-right: 0;
+		vertical-align: top;
+		padding-bottom: 30px;
+	}
+	.duragraft_bottom ul li:last-child {
+		margin-right: 0;
+		width: auto;
+		padding-bottom: 0;
+	}	
+	.duragraft_bottom ul li .duragraft_bottom_text h4 {
+		font-size: 22px;
+		line-height: 38px;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_pic img {
+    width: 100%;
+	}
+	.duragraft_bottom ul li .duragraft_bottom_text {
+		padding: 0 0;
+	}
+	/*---------------duragraft PAGE eND----------------------*/	
+	    /*******************************
+	start: Inner page : Contact Us
+*******************************/
+    /* ================================= start: getinTouch Section ================================= */
+    .getinTouch-sec {
+        padding: 30px 0;
+    }
+
+    .contact_form {
+        padding: 30px 10px;
+        padding-right: 10px;
+        width: auto;
+    }
+
+    .contact_form::after {
+        display: none;
+    }
+
+    .contact_info {
+        padding: 30px 0 20px 10px;
+    }
+
+    .innerBanner .captionBox {
+        width: 60%;
+    }
+
+    .contact_form h2 {
+        margin-bottom: 35px;
+        font-size: 20px;
+    }
+
+    .contact_form h2::after {
+        width: 15%;
+    }
+
+    .contact_form input[type=text],
+    .contact_form input[type=email],
+    .contact_form input[type=number],
+    .contact_form input[type=password] {
+        font-size: 13px;
+        height: 50px;
+        padding: 0 20px;
+        margin-bottom: 10px;
+    }
+
+    .contact_form textarea {
+        font-size: 13px;
+        height: 120px;
+        margin-bottom: 20px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 14px;
+    }
+
+    .contact_info h4 {
+        font-size: 16px;
+        margin-bottom: 35px;
+    }
+
+    .contact_info h4 span {
+        font-size: 14px;
+    }
+
+    .contact_info h4 span::after {
+        width: 100px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 14px;
+        background-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+    /*******************************
+start: Inner page : About Us
+*******************************/
+	.portal ul li {
+	display: block;
+	width: auto;
+	margin-right: 0;
+	position: relative;
+	margin-bottom: 50px;
+}
+.portal ul li iframe {
+    width: 100%;
+    height: 300px;
+    position: relative;
+}	
+.portal {
+	padding: 60px 0 0 0;
+	overflow: hidden;
+	background: #e6e6e6;
+}	
+	
+.meet_team_middle ul li .overlay {
+	left: 0;
+	width: auto;
+}	
+
